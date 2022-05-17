@@ -9,4 +9,3 @@ edition = "2021"
 
 dioxus = { version = "0.2.3", features = ["web"] }
 dioxus-router = "0.2.2"
-markdown = "0.3.0"

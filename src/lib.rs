@@ -13,7 +13,7 @@ use pages::*;
 pub fn app(cx: Scope) -> Element {
     cx.render(rsx! {
         Router {
-            Route { to: "/", Blog {} },
+            Route { to: "/", Home {} },
         }
     })
 }
